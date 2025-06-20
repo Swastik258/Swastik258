@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Swastik Pradhan</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Swastik258/Blue and White Modern Professional General Linkedin Banner.png" alt="Swastik Pradhan Banner" />
+<img src="https://raw.githubusercontent.com/Swastik258/Swastik258/main/banner.png" alt="SwastikStack Banner" />
 </div>
 
 <h3 align="center">DevOps & AWS Trainer | DevOps & Cloud Engineer | Founder of RootToCloud</h3>
