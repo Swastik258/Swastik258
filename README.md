@@ -55,16 +55,19 @@
 
 ### 📈 GitHub Stats
 
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swastikpradhan72&show_icons=true&theme=vue&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swastikpradhan72&layout=compact&theme=vue&hide_border=true)
+### 📈 GitHub Stats
+
+![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swastik258&show_icons=true&theme=vue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik258&layout=compact&theme=vue&hide_border=true)
+
 
 ---
 
 ### 🔧 Currently Working On
 
-- Backend Projects with Docker + Node.js  
-- Kubernetes deployments on AWS (EKS/Fargate)  
-- CI/CD pipelines with GitHub Actions  
+- Backend Projects with Docker + Node.js + Expressjs  
+- Kubernetes deployments on AWS (Kind/EKS/Minikube)  
+- CI/CD pipelines with Jenkins  
 - Building DevOps tutorials and content for **RootToCloud**
 
 ---
